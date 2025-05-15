@@ -114,7 +114,9 @@ You can migrate the following other source types if the orchestrator is running 
   - SUSE Linux Enterprise Server (SLES) 11 SP4
   - Ubuntu 16.04 LTS and 12.04.5 LTS
   - Samba 4.8, 4.7, 4.3, 4.2, and 3.6
-- NetApp FAS arrays hosting NetApp CIFS server, running NetApp ONTAP 9.  
+- NetApp FAS arrays hosting NetApp CIFS server, running NetApp ONTAP 9.
+- Note: The NetApp PowerShell Toolkit (only available to licensed customers on NetApp's support site) must be installed on the Orchestrator server.   
+
 
 ### Requirements for destination servers
 
